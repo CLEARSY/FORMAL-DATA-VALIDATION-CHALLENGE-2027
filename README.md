@@ -1,10 +1,10 @@
-# FORMAL-DATA-VALIDATION-CHALLENGE-2025
+# FORMAL-DATA-VALIDATION-CHALLENGE-2027
 ![](images/github-title.jpg)
 
-The [RSSRail 2025 conference](https://rssrail2025.isti.cnr.it/) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
+The [RSSRail 2027 conference]([https://rssrail2025.isti.cnr.it/](https://rssrail2027.dzsf.de/WebS/RSSRail2027/EN/home_node.html)) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
 To participate do as follow:
 1. Have a look at the content of this site and see if it fits your skills.
-2. Register by sending an email to challengeRSSR2025@clearsy.com. Registration is informal but mandatory to participate.
+2. Register by sending an email to challengeRSSR2026@clearsy.com. Registration is informal but mandatory to participate.
 3. Develop your solution. Ask questions to Matthias. Questions are shared to anyone as well as the answers.
 4. Send presentation slides at least 2 weeks before the conference, to validate your participation to the Challenge session.
 5. Present your contribution on site in Pisa during the Challenge session.
@@ -24,7 +24,7 @@ A support will be provided during this period to address any questions and resol
 Questions and answers will be shared with all participants to ensure a common understanding.
 
 ## When?
-During the conference a dedicated 1h30 session will be organized: 10' for Matthias to present the subject, equal time for the participants to expose their models and results.
+During the conference a dedicated 1h30 session will be organized: 10' for Baptiste to present the subject, equal time for the participants to expose their models and results.
 It will enable participating teams to present their analyses and discuss the results. 
 This will be the opportunity for newcomers to engage with the subject thanks to this hands-on experience. 
 
