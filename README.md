@@ -59,8 +59,8 @@ Formal data validation checks that all data used by the safety-critical software
 - Proofs or exhaustive checks that the data satisfy safety invariants
 
 ### Some scientific resources
-- Abo, R., Voisin, L. (2014). Formal Implementation of Data Validation for Railway Safety-Related Systems with OVADO. In: Counsell, S., Núñez, M. (eds) Software Engineering and Formal Methods. SEFM 2013. Lecture Notes in Computer Science(), vol 8368. Springer.
-- Bendisposto, J., Krings, S., Leuschel, M. (2014). Who watches the watchers: Validating the ProB Validation Tool}, In: Electronic Proceedings in Theoretical Computer Science, vol 149.
-- Butler, M. et al. (2020). The First Twenty-Five Years of Industrial Use of the B-Method. In: ter Beek, M.H., Ničković, D. (eds) Formal Methods for Industrial Critical Systems. FMICS 2020. Lecture Notes in Computer Science(), vol 12327. Springer.
-- Lecomte, T., Burdy, L, Leuschel, M. (2012). Formally Checking Large Data Sets in the Railways. In: Proceedings of DS-Event-B 2012: Workshop on the experience of and advances in developing dependable systems in Event-B, ICFEM 2012. 
 - Lecomte, T., Almeida, D., Germain, V., Leuschel, M. (2026). Data validation based on a formal specification of the safety requirements - 20 years of industrial experience. In: Brazilian Symposium on Formal Methods, SBMF 2026. Lecture Notes in Computer Science. Springer. To appear.
+- Butler, M. et al. (2020). The First Twenty-Five Years of Industrial Use of the B-Method. In: ter Beek, M.H., Ničković, D. (eds) Formal Methods for Industrial Critical Systems. FMICS 2020. Lecture Notes in Computer Science(), vol 12327. Springer.
+- Abo, R., Voisin, L. (2014). Formal Implementation of Data Validation for Railway Safety-Related Systems with OVADO. In: Counsell, S., Núñez, M. (eds) Software Engineering and Formal Methods. SEFM 2013. Lecture Notes in Computer Science(), vol 8368. Springer.
+- Bendisposto, J., Krings, S., Leuschel, M. (2014). Who watches the watchers: Validating the ProB Validation Tool. In: Electronic Proceedings in Theoretical Computer Science, vol 149.
+- Lecomte, T., Burdy, L., Leuschel, M. (2012). Formally Checking Large Data Sets in the Railways. In: Proceedings of DS-Event-B 2012: Workshop on the experience of and advances in developing dependable systems in Event-B, ICFEM 2012. 
