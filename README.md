@@ -1,13 +1,13 @@
 # FORMAL-DATA-VALIDATION-CHALLENGE-2027
-![](images/github-title.jpg)
+![](images/github-title-2027.jpg)
 
-The [RSSRail 2027 conference]([https://rssrail2025.isti.cnr.it/](https://rssrail2027.dzsf.de/WebS/RSSRail2027/EN/home_node.html)) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
+The [RSSRail 2027 conference](https://rssrail2027.dzsf.de/WebS/RSSRail2027/EN/home_node.html) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
 To participate do as follow:
 1. Have a look at the content of this site and see if it fits your skills.
-2. Register by sending an email to challengeRSSR2026@clearsy.com. Registration is informal but mandatory to participate.
-3. Develop your solution. Ask questions to Matthias. Questions are shared to anyone as well as the answers.
-4. Send presentation slides at least 2 weeks before the conference, to validate your participation to the Challenge session.
-5. Present your contribution on site in Pisa during the Challenge session.
+2. Register by sending an email to challengeRSSR2027@clearsy.com. Registration is informal but mandatory to participate.
+3. Develop your solution. Ask your questions by email to challengeRSSR2027@clearsy.com. Questions are shared to anyone as well as the answers.
+4. Send presentation slides by the first week of May 2027, to validate your participation to the Challenge session. Your presentation focuses on your own approach: the subject is presented once at the start of the session and is not repeated in each contribution.
+5. Present your contribution on site in Dresden, 2-4 June 2027, during the Challenge session.
 
 ## What?
 The goal? To identify **anomalies** in a database for a specified list of self-sufficient specifications. 
@@ -18,17 +18,18 @@ Participation is free and open to all teams, from academia and from industry.
 
 ## How?
 The challenge is designed to be completed in one week by a team of 2 to 3 people. 
-The necessary resources (specification, data) will be accessible on this dedicated github repository from June to November 2025, allowing participants to organize their resolution team. 
-The data will be produced in .xml and .xlsx formats for wide accessibility. 
+The necessary resources (specification, data) will be accessible on this dedicated github repository from week 50 of 2026 (7-13 December) until the conference in June 2027, allowing participants to organize their resolution team. 
+The data are provided in open formats for wide accessibility: the infrastructure and the interlocking in railML 3.3 (XML), the balise telegrams and the LEU programming in JSON. The specification, a guide and the track plan are provided as HTML pages. 
 A support will be provided during this period to address any questions and resolve issues. 
 Questions and answers will be shared with all participants to ensure a common understanding.
 
 ## When?
-During the conference a dedicated 1h30 session will be organized: 10' for Baptiste to present the subject, equal time for the participants to expose their models and results.
+During the conference a dedicated 1h30 session will be organized: 10' for Baptiste Pézelier to present the subject, equal time for the participants to expose their models and results.
+Since the subject is presented once, each presentation focuses on the participant's particular approach (formalism, tools, modelling choices, anomalies found) and does not repeat the subject.
 It will enable participating teams to present their analyses and discuss the results. 
 This will be the opportunity for newcomers to engage with the subject thanks to this hands-on experience. 
 
-![](images/schedule-update.jpg)
+![](images/schedule-2027.jpg)
 
 
 ## Explanations
